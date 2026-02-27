@@ -38,5 +38,46 @@ To become proficient in Machine Learning and Data Science by building projects a
 - Jupyter Notebook
 
 ---
+Machine-Learning-Repo/
+│
+├── 0_ReadMe/                     # Always start with this
+│   └── README.md                  # Describe your repo, skills, and contents
+│
+├── 1_Data_Preprocessing/          # Clean, manipulate, explore datasets
+│   ├── missing_values.ipynb
+│   ├── data_cleaning.ipynb
+│   └── feature_engineering.ipynb
+│
+├── 2_Exploratory_Data_Analysis/  # Visualize and understand data
+│   ├── EDA_project1.ipynb
+│   └── EDA_project2.ipynb
+│
+├── 3_Supervised_Learning/        # Regression & Classification projects
+│   ├── Linear_Regression.ipynb
+│   ├── Decision_Tree.ipynb
+│   └── Random_Forest.ipynb
+│
+├── 4_Unsupervised_Learning/      # Clustering, PCA, etc.
+│   ├── KMeans.ipynb
+│   └── PCA.ipynb
+│
+├── 5_Deep_Learning/               # Optional: if you learn NN later
+│   ├── CNN_Image_Classification.ipynb
+│   └── LSTM_TimeSeries.ipynb
+│
+├── 6_Projects/                    # End-to-end mini projects
+│   ├── Titanic_Survival_Prediction/
+│   │    ├── notebook.ipynb
+│   │    ├── data.csv
+│   │    └── README.md
+│   └── House_Price_Prediction/
+│         ├── notebook.ipynb
+│         ├── data.csv
+│         └── README.md
+│
+├── 7_Requirements/                # Required Python packages
+│   └── requirements.txt
+│
+└── 8_References/                  # Useful links, datasets, tutorials
 
 ⭐ Feel free to explore and give suggestions!
